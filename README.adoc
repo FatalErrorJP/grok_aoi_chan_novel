@@ -1,0 +1,19 @@
+= grok_aoi_chan_novel
+:author: Fatal Error
+:toc: left
+:toc-title: 目次
+:icons: font
+:xrefstyle: basic
+:sectnums:
+:source-highlighter: highlightjs
+
+== これはなに？
+Grokに生成してもらった琴葉葵ちゃんが登場する小説の保管場所です。
+
+== 登場人物について
+登場人物は、原則株式会社エーアイの開発している音声合成ソフトA.I.VOICEおよびA.I.VOICE2に登場するキャラクターを元としています。 +
+各キャラクター設定は公式設定に記載されている部分については公式設定をベースにしてはいますが、 +
+公式設定で語られていない部分については独自設定モリモリのため、読む場合はご注意ください。
+
+例えば以下リンク先のように、琴葉葵ちゃんについて脳内非公式設定が適用されていたりします。 +
+https://misskey.io/notes/9snvau0ypft205yj
